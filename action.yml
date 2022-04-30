@@ -1,6 +1,6 @@
 name: 'Run Aspell'
 description: 'Run `aspell` to check spelling in one or more TeX files.'
-author: reitermarkus
+author: reitermarkus, forked by ktht
 branding:
   icon: 'book'
   color: 'purple'
